@@ -15,6 +15,6 @@ Before you begin, ensure you have met the following requirements:
 
 To clone the repository, run the following command:
 
-Install PHP dependencies:
-composer install
+```bash
+git clone https://github.com/your-username/your-repository-name.git
 
