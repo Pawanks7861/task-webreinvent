@@ -17,7 +17,8 @@ To clone the repository, run the following command:
 
 ```bash
 composer install
+```
+## Set up environment variables
 ```bash
-
-Set up environment variables:
-
+cp .env.example .env
+```
