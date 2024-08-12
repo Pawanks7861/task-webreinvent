@@ -18,7 +18,21 @@ To clone the repository, run the following command:
 ```bash
 composer install
 ```
-## Set up environment variables
+Set up environment variables
 ```bash
 cp .env.example .env
 ```
+Generate the application key:
+```bash
+php artisan key:generate
+```
+Run database migrations:
+```bash
+php artisan migrate
+```
+
+## Running the Application
+```bash
+php artisan serve
+```
+
