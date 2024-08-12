@@ -16,5 +16,8 @@ Before you begin, ensure you have met the following requirements:
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+composer install
+```bash
+
+Set up environment variables:
 
