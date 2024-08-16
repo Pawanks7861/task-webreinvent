@@ -1,6 +1,6 @@
 # To-Do List Application
 
-This is a simple and interactive To-Do List application built with [Your Tech Stack]. The application allows users to manage their daily tasks efficiently, ensuring a smooth user experience with real-time updates and essential functionalities.
+This is a simple and interactive To-Do List application built with Laravel 10. The application allows users to manage their daily tasks efficiently, ensuring a smooth user experience with real-time updates and essential functionalities.
 
 ## Features
 
